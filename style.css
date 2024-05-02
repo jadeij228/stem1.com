@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.HomeB {
+    width: 110px;
+    height: 47px;
+    margin-left: 19px;
+}
+#textfield {
+    margin-left: 17px;
+    border-width: 3px;
+    border-color: #7E066A;
+    background-color: #05CB09;
+}
+#password {
+    padding-left: 11px;
+    margin-left: 18px;
+    background-color: #1E0FE8;
+    border-width: 2px;
+    border-color: #FF4DF3;
+    font-size: small;
+}
+#submit {
+    margin-left: 280px;
+    padding-top: 17px;
+    padding-left: 27px;
+    padding-right: 26px;
+    padding-bottom: 16px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 22px;
+    color: #041092;
+}
+.OuterTable tbody tr {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 36px;
+}
+tbody tr .HomeTable {
+    border-radius: 23px 36px 49px 42px;
+}
